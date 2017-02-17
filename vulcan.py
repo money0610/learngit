@@ -1,1 +1,2 @@
 moneyoppop
+/usr/bin/env
